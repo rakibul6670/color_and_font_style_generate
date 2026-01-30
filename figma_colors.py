@@ -1,7 +1,7 @@
 import requests
 
 # ===== CONFIGURATION =====
-FIGMA_TOKEN = "figma token profile -settings-token-gen"
+FIGMA_TOKEN = "figma.com my profile icon click -> settings->security->token-gen"
 FILE_KEY = "Figma url thake file key"
 OUTPUT_FILE = 'assets/colors/colors.xml'
 # ==========================
